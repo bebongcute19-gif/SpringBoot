@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Session01ex2Application {
 
-	public static void main(String[] args) {
-		SpringApplication.run(Session01ex2Application.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(Session01ex2Application.class, args);
+    }
 
 }
